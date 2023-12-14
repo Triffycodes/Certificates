@@ -1,6 +1,5 @@
 # Certificates
 ---
-![Meta Introduction to Front End Developmet page-0001]([https://github.com/Triffycodes/Certificates/assets/45749291/68afd319-6927-4ac4-8e5e-93194b9859c9](https://github.com/Triffycodes/Certificates/blob/main/Coursera%20D2U7EJ6EZ7GS.pdf))
 
 ![Complete Data Science Course- Beginner to Advance _page-0001](https://github.com/Triffycodes/Certificates/assets/45749291/68afd319-6927-4ac4-8e5e-93194b9859c9)
 
