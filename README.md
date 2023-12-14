@@ -1,6 +1,6 @@
 # Certificates
 ---
-[Coursera D2U7EJ6EZ7GS.pdf](https://github.com/Triffycodes/Certificates/files/13675063/Coursera.D2U7EJ6EZ7GS.pdf)
+![Coursera D2U7EJ6EZ7GS.pdf](https://github.com/Triffycodes/Certificates/files/13675063/Coursera.D2U7EJ6EZ7GS.pdf)
 
 
 
