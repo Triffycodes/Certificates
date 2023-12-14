@@ -3,7 +3,6 @@
 ![Coursera D2U7EJ6EZ7GS.pdf](https://github.com/Triffycodes/Certificates/files/13675063/Coursera.D2U7EJ6EZ7GS.pdf)
 
 
-
 ![Complete Data Science Course- Beginner to Advance _page-0001](https://github.com/Triffycodes/Certificates/assets/45749291/68afd319-6927-4ac4-8e5e-93194b9859c9)
 
 
@@ -20,3 +19,4 @@
 
 
 ![_Complete Ethical Hacking Course - Learn From Scratch](https://github.com/Triffycodes/Certificates/assets/45749291/8c68afd9-6e4b-4b37-af83-685773d22d65)
+
